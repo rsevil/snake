@@ -1,5 +1,5 @@
 # Snake
-A snake html+css+js(jquery) game I coded one in afternoon on 2012
+A snake html+css+js(jquery) game I coded in one afternoon on 2012
 
 ## Setup
 
