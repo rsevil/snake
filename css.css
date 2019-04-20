@@ -1,0 +1,32 @@
+#level-container{
+	/*background-color: #000000;*/
+    float: left;
+    padding: 3px;
+}
+#score-container{
+	text-align:right;
+	font-weight:bold;
+}
+.row{
+	overflow:auto;
+}
+.col, .wall, .snake, .food, .unpassable{
+	background-color: #FFFFFF;
+    float: left;
+    height: 10px;
+    margin: 1px 1px;
+    width: 10px;
+	border:solid 1px #FFF;
+}
+.food{
+	background-color: #00FF00;
+	border:solid 1px #00FF00;
+}
+.wall{
+	background-color: #FF0000;
+	border:solid 1px #FF0000;
+}
+.snake{
+	background-color: #000;
+	border:solid 1px #000;
+}
